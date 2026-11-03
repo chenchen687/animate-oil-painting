@@ -1,4 +1,0 @@
-interface:
-  display_name: "油画动态壁纸"
-  short_description: "将油画制作成自然循环壁纸，分别设计人物、花草、云烟与水面的动作"
-  default_prompt: "使用 $animate-oil-painting 将我提供的油画制作成自然生动的循环动态壁纸。"
